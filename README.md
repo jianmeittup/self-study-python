@@ -34,6 +34,6 @@
 
 ##### 以上打怪升级操作视频记录：
 
-[《零基础编程入门记录》01](https://press.one/files/09ed989542e69067660372d0f32408f971e7696ab169cf7601b5b07400d3e1a3%3E)
+[《零基础编程入门记录》01](https://press.one/files/09ed989542e69067660372d0f32408f971e7696ab169cf7601b5b07400d3e1a3)
 
 [《零基础编程入门记录》02](https://press.one/files/a4c09b86aba2b7a23ccc18f07dbfe1a0c8a4a467a046d6198fa24f2187f9ddcb)
