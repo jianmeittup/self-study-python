@@ -11,4 +11,29 @@
 > 简美小视频：通过实际小任务，用最短时间，掌握最少、必要技能。
 
 ------
+#### 《零基础编程入门记录》简单回顾0
 
+- 自学理由：儿子问编程问题时能给个入门答案，培训班贼贵的，自学就是赚钱了，成长了。
+
+- 视频操作记录理由：有视频编辑的经验；做就是最好的学；可以帮到初学者…嗯呢，有朋友打赏了，有朋友私下鼓励表扬了，估计还有默默心里认可的，想多了，哈哈。
+
+- 视频记录编程环境：Windows
+
+- 遇到的坑：
+
+  > - 没有安装Git；
+  > - 第一次提交代码到Github时需要先配置ssh，先git add，再git commit。
+
+- 初学者的正确姿势：
+
+  > - 安装Git：<https://gitforwindows.org/>
+  > - 注册Github: <https://github.com/>
+  > - 代码编辑器：VScode <https://code.visualstudio.com/>. 因人而异，可用其他编辑器。
+  > - 熟悉Markdown：可选，但建议学，学会了真的很简单，很好用。Markdown编辑器是Tyora：<https://www.typora.io/>
+  > - 第一次将代码上传 Github，需要先配置 ssh key，然后再 git add，接着 git commit.
+
+##### 以上打怪升级操作视频记录：
+
+[《零基础编程入门记录》01](https://press.one/files/09ed989542e69067660372d0f32408f971e7696ab169cf7601b5b07400d3e1a3%3E)
+
+[《零基础编程入门记录》02](https://press.one/files/a4c09b86aba2b7a23ccc18f07dbfe1a0c8a4a467a046d6198fa24f2187f9ddcb)
